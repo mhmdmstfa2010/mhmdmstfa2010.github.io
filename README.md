@@ -23,10 +23,14 @@
 name        : Mohamed Mostafa
 role        : DevOps Engineer
 location    : Egypt 🇪🇬
+experience  : 1 year
 focus       : Cloud Infrastructure & Automation
+working_on  : AWS · Terraform · Kubernetes · CI/CD Pipelines
 philosophy  : "If you did it twice, automate it."
-currently   : Building scalable infra on AWS ☁️
 ```
+
+> DevOps Engineer with hands-on experience in AWS, Kubernetes & Terraform.
+> AWS Certified (SAA & CLF). Building scalable infra and automating everything. ⚙️
 
 ---
 
